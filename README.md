@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, my name is Lucas Walder 👋
+##I wanna be a good front-end developer adn create some good things to help people with technology.
+
+- 🔭 I’m currently working as a freelance front-end developer.
+- 🌱 I’m currently learning JAVASCRIPT, NODE AND SQL.
+- 🤔 I’m looking for help with NODE AND SQL.
+- ⚡ Fun fact: I worked for many years as a graphic designer, but I have always been passionate about programming and now I decided to follow my heart (I know it seems like something out of a romantic film.)
+
+
+
 
 <!--
 **lucaswalder/lucaswalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
