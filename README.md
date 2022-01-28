@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working as a freelance front-end developer.
 
-- 🌱 I’m currently learning JAVASCRIPT, NODE AND SQL.
+- 🌱 I’m currently learning ReactJS and all your ecosystem.
 
-- 🤔 I’m looking for help with NODE AND SQL.
+- 🤔 I’m looking for help with NextJS.
 
 - 👨‍💻 All of my projects are available at <a href="https://lucaswalder.dev">lucaswalder.dev<a/>
 
