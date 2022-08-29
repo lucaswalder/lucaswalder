@@ -2,9 +2,9 @@
 <h4 align="center">I am currently studying front-end development and I am sure that I will be a great developer in the future.</h3>
 
 
-- 🔭 I’m currently working as a freelance front-end developer.
+- 🔭 I’m currently working as Front End Developer at [Insany Design](https://github.com/insany-Design/).
 
-- 🌱 I’m currently learning ReactJS and all your ecosystem.
+- 🌱 I’m currently learning NextJS, GraphQl and TypesScript.
 
 - 👨‍💻 All of my projects are available at <a href="https://lucaswalder.dev">lucaswalder.dev<a/>
 
