@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning ReactJS and all your ecosystem.
 
-- 🤔 I’m looking for help with NextJS.
-
 - 👨‍💻 All of my projects are available at <a href="https://lucaswalder.dev">lucaswalder.dev<a/>
 
 - 📫 How to reach me: contato@lucaswalder.dev
