@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Front End Developer at [Insany Design](https://github.com/insany-Design/).
 
-- 🌱 I’m currently learning NextJS, GraphQl and TypesScript.
+- 🌱 I’m currently learning NodeJS, DB and AWS
 
 - 👨‍💻 All of my projects are available at <a href="https://lucaswalder.dev">lucaswalder.dev<a/>
 
