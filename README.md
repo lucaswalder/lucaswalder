@@ -1,33 +1,30 @@
-<h1 align="center">Hi there, my name is Lucas Walder 👋</h1>
-<h4 align="center">I am currently studying front-end development and I am sure that I will be a great developer in the future.</h3>
+# Lucas Walder
 
+Frontend Engineer with over 4 years of experience.
 
-- 🔭 I’m currently working as Front End Developer at [Insany Design](https://github.com/insany-Design/).
+Tech Lead @InsanyDesign.
 
-- 🌱 I’m currently learning NodeJS, DB and AWS
+[![X](https://img.shields.io/badge/Lucas%20Walder-9013FE?style=flat-square&labelColor=9013FE&logo=X&logoColor=whitelink=https://www.x.com/lucaswalder_dev)](https://www.x.com/lucaswalder_dev)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Walder-9013FE?style=flat-square&labelColor=9013FE&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile) 
+[![Gmail Badge](https://img.shields.io/badge/-lucaswalder.dev@gmail.com-9013FE?style=flat-square&labelColor=9013FE&logo=Gmail&logoColor=white&link=mailto:lucaswalder.dev@gmail.com)](mailto:lucaswalder.dev@gmail.com)
 
-- 👨‍💻 All of my projects are available at <a href="https://lucaswalder.dev">lucaswalder.dev<a/>
+🇬🇧
 
-- 📫 How to reach me: contato@lucaswalder.dev
+Enthusiast of the best web development technologies.
 
-- ⚡ Fun fact: I worked for many years as a graphic designer, but I have always been passionate about programming and now I decided to follow my heart (I know it seems like something out of a romantic film.)
+Passionate about creating efficient and engaging user experiences using the best technologies. I am dedicated to learning and sharing knowledge with the community.
 
-- To get in touch follow me on Instagram <a href="instagram.com/lucaswalder.dev">@lucaswalder.dev</a>
+>
+>"Perseverance and dedication are the keys to success. Talent alone may not be enough, but determination and passion for what you do will always make a difference."
+>
+>
+---
+🇧🇷
 
+Entusiasta das melhores tecnologias de desenvolvimento web.
 
+Apaixonado por criar experiências de usuário eficientes e envolventes usando as melhores tecnologias. Sou dedicado a aprender e compartilhar conhecimento com a comunidade.
 
-
-<!--
-**lucaswalder/lucaswalder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>
+>"Perseverança e dedicação são as chaves para o sucesso. Talento sozinho pode não ser suficiente, mas determinação e paixão pelo que você faz sempre farão a diferença."
+>
