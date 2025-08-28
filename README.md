@@ -2,7 +2,7 @@
 
 Frontend Engineer with over 4 years of experience.
 
-Tech Lead @InsanyDesign.
+Tech Lead @Insany
 
 [![X](https://img.shields.io/badge/Lucas%20Walder-9013FE?style=flat-square&labelColor=9013FE&logo=X&logoColor=whitelink=https://www.x.com/lucaswalder_dev)](https://www.x.com/lucaswalder_dev)
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Walder-9013FE?style=flat-square&labelColor=9013FE&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaswalder-dev/)](https://www.linkedin.com/in/lucaswalder-dev/) 
